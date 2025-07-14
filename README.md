@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `GALAHAD_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/ralna/GALAHAD.git (revision: `05da8b3e4d7e251dce2dec22b894048734e276cd`)
+* git repository: https://github.com/ralna/GALAHAD.git (revision: `c935b2c08506117e9967e51f4d1fcd49bec06f7f`)
 
 ## Platforms
 
@@ -27,7 +27,8 @@ The following JLL packages are required by `GALAHAD_jll.jl`:
 * `HSL_jll`
 * `Hwloc_jll`
 * `MUMPS_seq_jll`
-* `libblastrampoline_jll`
+* `OpenBLAS32_jll`
+* `OpenBLAS_jll`
 
 ## Products
 
