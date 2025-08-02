@@ -9,11 +9,11 @@ os = "macos"
     url = "https://github.com/amontoison/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+1/GALAHAD.v5.2.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "89b2f8034409a5674d17e7e52949e1a488d8e6d1"
+git-tree-sha1 = "16f6a1a8e4dbb7dcf46e73c947caa276dbd969db"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "e29e600956699583893b414a088acf030a5f658d18990b5a6cb1c0f7ba2f403d"
-    url = "https://github.com/amontoison/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.9+0/GALAHAD.v5.2.9.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "f86dcfefe328536bd5351f496b82335fc196de77604271816947553c4a5ebc92"
+    url = "https://github.com/amontoison/GALAHAD_jll.jl/releases/download/GALAHAD-v5.3.0+0/GALAHAD.v5.3.0.x86_64-linux-gnu-libgfortran5.tar.gz"
